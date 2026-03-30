@@ -41,7 +41,7 @@ I specialize in building **Agentic Workflows** and modern integrations that move
 
 ### 📫 Reach Out
 
-- **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/in/ameya-sap/) (Replace with your actual link if different)
+- **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/in/ameyasuvarna/)
 - **Work**: Exploring the future of GenAI in Enterprise Systems.
 
 ---
