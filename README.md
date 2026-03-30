@@ -1,7 +1,7 @@
 # Hello, I'm Ameya 👋
 
 <p align="center">
-  <img src="images/banner.png" alt="Profile Banner" width="100%">
+  <img src="images/banner-new.png" alt="Profile Banner" width="100%">
 </p>
 
 ## 🚀 Bridging the Gap: AI, SAP & Salesforce
