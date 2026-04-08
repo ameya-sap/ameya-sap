@@ -20,6 +20,7 @@ I specialize in building **Agentic Workflows** and modern integrations that move
 *   **[ADK SpaCy Router](https://github.com/ameya-sap/adk-spacy-router-agent)**: Modular Google ADK project demonstrating a hybrid NLP architecture using spaCy for NER and Gemini for reasoning.
 *   **[Financial Report Summarizer](https://github.com/ameya-sap/financial_report_summarizer)**: AI-driven analysis and summarization of large-scale financial reports.
 *   **[AI Guardrails Demo](https://github.com/ameya-sap/guardrail-agent-demo)**: Implementation of safety and policy layers (Guardrails) for AI Agents using Google ADK.
+*   **[Hazmat Copilot](https://github.com/ameya-sap/hazmat-copilot)**: Orchestrating safety data intelligence with LlamaIndex and Google ADK.
 
 ---
 
@@ -43,6 +44,7 @@ I regularly write about the intersection of Enterprise Systems and Agentic AI on
 *   **[The Eyes and the Brain](https://medium.com/@ameyaps_98908/the-eyes-and-the-brain-why-specialized-image-ml-still-rules-in-the-era-of-llms-6f5d4e3c2b1a)**: Why specialized ML (TensorFlow) still beats LLMs for raw detection in "Hybrid Reality" architectures.
 *   **[Generative UI with SAP UI5](https://medium.com/@ameyaps_98908/is-this-the-future-of-sap-joule-and-ui5-exploring-generative-ui-with-ag-ui-and-a2ui-4e3d2c1b0a9b)**: Exploring the future of SAP Joule and UI5 via the AG-UI protocol.
 *   **[Hybrid AI Agents](https://medium.com/@ameyaps_98908/the-best-of-both-worlds-building-hybrid-ai-agents-with-spacy-and-google-adk-2e1d0c9b8a7f)**: Combining the speed of spaCy with the reasoning of Google ADK.
+*   **[Hazmat Copilot](https://medium.com/google-cloud/hazmat-copilot-orchestrating-safety-data-intelligence-with-llamaindex-and-google-adk-9b9edb2eeae7)**: Orchestrating safety data intelligence with LlamaIndex and Google ADK.
 
 ---
 
