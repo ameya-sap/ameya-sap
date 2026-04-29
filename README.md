@@ -12,7 +12,6 @@ I specialize in building **Agentic Workflows** and modern integrations that move
 
 ### 🧠 Featured Agentic Architectures
 
-*   **[Smart Closer](https://github.com/ameya-sap/gnext-2026-smart-closer)**: An autonomous orchestration agent that resolves semantic gaps between Salesforce and SAP data using Gemini Enterprise ADK.
 *   **[Vision-Agent-Sentry](https://github.com/ameya-sap/Vision-Agent-Sentry)**: A "Hybrid Reality" architecture combining **TensorFlow (MobileNetV2)** computer vision with a Gemini-powered situational reasoning "brain".
 *   **[Gen UI Bridge (UI5)](https://github.com/ameya-sap/gen-ui-bridge-ui5)**: Prototype exploring **Generative UI (A2UI)** in OpenUI5, allowing AI Agents to dynamically render native SAP controls.
 *   **[Credit Note Processing](https://github.com/ameya-sap/align_creditnote_processing)**: Automating end-to-end credit note workflows across SAP and Salesforce.
